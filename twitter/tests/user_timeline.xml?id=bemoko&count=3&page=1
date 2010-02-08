@@ -1,0 +1,476 @@
+<statuses type="array">
+    <status>
+        <created_at>
+            Fri Feb 05 07:48:39 +0000 2010
+        </created_at>
+        <id>
+            8668674386
+        </id>
+        <text>
+            @chrysb great. Best bottle I've had in a while.
+        </text>
+        <source>
+            <a href="http://www.atebits.com/" rel="nofollow">Tweetie</a>
+        </source>
+        <truncated>
+            false
+        </truncated>
+        <in_reply_to_status_id>
+            8665237594
+        </in_reply_to_status_id>
+        <in_reply_to_user_id>
+            14617117
+        </in_reply_to_user_id>
+        <favorited>
+            false
+        </favorited>
+        <in_reply_to_screen_name>
+            chrysb
+        </in_reply_to_screen_name>
+        <user>
+            <id>
+                1401881
+            </id>
+            <name>
+                Doug Williams
+            </name>
+            <screen_name>
+                dougw
+            </screen_name>
+            <location>
+                San Francisco, CA
+            </location>
+            <description>
+                BD at Twitter, pushing companies to be great at real-time.
+            </description>
+            <profile_image_url>
+                http://a1.twimg.com/profile_images/483178212/dougw_avatar_normal.jpg
+            </profile_image_url>
+            <url>
+                http://www.igudo.com
+            </url>
+            <protected>
+                false
+            </protected>
+            <followers_count>
+                356415
+            </followers_count>
+            <profile_background_color>
+                9ae4e8
+            </profile_background_color>
+            <profile_text_color>
+                000000
+            </profile_text_color>
+            <profile_link_color>
+                0000ff
+            </profile_link_color>
+            <profile_sidebar_fill_color>
+                e0ff92
+            </profile_sidebar_fill_color>
+            <profile_sidebar_border_color>
+                87bc44
+            </profile_sidebar_border_color>
+            <friends_count>
+                444
+            </friends_count>
+            <created_at>
+                Sun Mar 18 06:42:26 +0000 2007
+            </created_at>
+            <favourites_count>
+                217
+            </favourites_count>
+            <utc_offset>
+                -28800
+            </utc_offset>
+            <time_zone>
+                Pacific Time (US &amp; Canada)
+            </time_zone>
+            <profile_background_image_url>               http://a1.twimg.com/profile_background_images/2752608/twitter_bg_grass.jpg
+            </profile_background_image_url>
+            <profile_background_tile>
+                false
+            </profile_background_tile>
+            <notifications>
+                false
+            </notifications>
+            <geo_enabled>
+                true
+            </geo_enabled>
+            <verified>
+                false
+            </verified>
+            <following>
+                false
+            </following>
+            <statuses_count>
+                16011
+            </statuses_count>
+            <lang>
+                en
+            </lang>
+            <contributors_enabled>
+                false
+            </contributors_enabled>
+        </user>
+        <geo>
+            <georss:point>
+                37.77862687 -122.39299965
+            </georss:point>
+        </geo>
+        <contributors/>
+    </status>
+    
+    
+    
+    
+    <status>
+        <created_at>
+            Fri Feb 05 04:30:13 +0000 2010
+        </created_at>
+        <id>
+            8663592983
+        </id>
+        <text>
+            @joshelman I. Hate. AT&T.
+        </text>
+        <source>
+            <a href="/devices" rel="nofollow">
+                txt
+            </a>
+        </source>
+        <truncated>
+            false
+        </truncated>
+        <in_reply_to_status_id/>
+        <in_reply_to_user_id>
+            1979921
+        </in_reply_to_user_id>
+        <favorited>
+            false
+        </favorited>
+        <in_reply_to_screen_name>
+            joshelman
+        </in_reply_to_screen_name>
+        <user>
+            <id>
+                1401881
+            </id>
+            <name>
+                Doug Williams
+            </name>
+            <screen_name>
+                dougw
+            </screen_name>
+            <location>
+                San Francisco, CA
+            </location>
+            <description>
+                BD at Twitter, pushing companies to be great at real-time.
+            </description>
+            <profile_image_url>
+                http://a1.twimg.com/profile_images/483178212/dougw_avatar_normal.jpg
+            </profile_image_url>
+            <url>
+                http://www.igudo.com
+            </url>
+            <protected>
+                false
+            </protected>
+            <followers_count>
+                356436
+            </followers_count>
+            <profile_background_color>
+                9ae4e8
+            </profile_background_color>
+            <profile_text_color>
+                000000
+            </profile_text_color>
+            <profile_link_color>
+                0000ff
+            </profile_link_color>
+            <profile_sidebar_fill_color>
+                e0ff92
+            </profile_sidebar_fill_color>
+            <profile_sidebar_border_color>
+                87bc44
+            </profile_sidebar_border_color>
+            <friends_count>
+                443
+            </friends_count>
+            <created_at>
+                Sun Mar 18 06:42:26 +0000 2007
+            </created_at>
+            <favourites_count>
+                216
+            </favourites_count>
+            <utc_offset>
+                -28800
+            </utc_offset>
+            <time_zone>
+                Pacific Time (US &amp; Canada)
+            </time_zone>
+            <profile_background_image_url>
+                http://a1.twimg.com/profile_background_images/2752608/twitter_bg_grass.jpg
+            </profile_background_image_url>
+            <profile_background_tile>
+                false
+            </profile_background_tile>
+            <notifications>
+                false
+            </notifications>
+            <geo_enabled>
+                true
+            </geo_enabled>
+            <verified>
+                false
+            </verified>
+            <following>
+                false
+            </following>
+            <statuses_count>
+                16010
+            </statuses_count>
+            <lang>
+                en
+            </lang>
+            <contributors_enabled>
+                false
+            </contributors_enabled>
+        </user>
+        <geo/>
+        <contributors/>
+    </status>
+    
+    
+    
+    
+    <status>
+        <created_at>
+            Fri Feb 05 04:12:11 +0000 2010
+        </created_at>
+        <id>
+            8662997562
+        </id>
+        <text>
+            @rsarver beat you to it!
+        </text>
+        <source>
+            <a href="/devices" rel="nofollow">
+                txt
+            </a>
+        </source>
+        <truncated>
+            false
+        </truncated>
+        <in_reply_to_status_id/>
+        <in_reply_to_user_id>
+            795649
+        </in_reply_to_user_id>
+        <favorited>
+            false
+        </favorited>
+        <in_reply_to_screen_name>
+            rsarver
+        </in_reply_to_screen_name>
+        <user>
+            <id>
+                1401881
+            </id>
+            <name>
+                Doug Williams
+            </name>
+            <screen_name>
+                dougw
+            </screen_name>
+            <location>
+                San Francisco, CA
+            </location>
+            <description>
+                BD at Twitter, pushing companies to be great at real-time.
+            </description>
+            <profile_image_url>
+                http://a1.twimg.com/profile_images/483178212/dougw_avatar_normal.jpg
+            </profile_image_url>
+            <url>
+                http://www.igudo.com
+            </url>
+            <protected>
+                false
+            </protected>
+            <followers_count>
+                356437
+            </followers_count>
+            <profile_background_color>
+                9ae4e8
+            </profile_background_color>
+            <profile_text_color>
+                000000
+            </profile_text_color>
+            <profile_link_color>
+                0000ff
+            </profile_link_color>
+            <profile_sidebar_fill_color>
+                e0ff92
+            </profile_sidebar_fill_color>
+            <profile_sidebar_border_color>
+                87bc44
+            </profile_sidebar_border_color>
+            <friends_count>
+                443
+            </friends_count>
+            <created_at>
+                Sun Mar 18 06:42:26 +0000 2007
+            </created_at>
+            <favourites_count>
+                216
+            </favourites_count>
+            <utc_offset>
+                -28800
+            </utc_offset>
+            <time_zone>
+                Pacific Time (US &amp; Canada)
+            </time_zone>
+            <profile_background_image_url>
+                http://a1.twimg.com/profile_background_images/2752608/twitter_bg_grass.jpg
+            </profile_background_image_url>
+            <profile_background_tile>
+                false
+            </profile_background_tile>
+            <notifications/>
+            <geo_enabled>
+                true
+            </geo_enabled>
+            <verified>
+                false
+            </verified>
+            <following/>
+            <statuses_count>
+                16009
+            </statuses_count>
+            <lang>
+                en
+            </lang>
+            <contributors_enabled>
+                false
+            </contributors_enabled>
+        </user>
+        <geo/>
+        <contributors/>
+    </status>
+    
+    
+    
+    <status>
+        <created_at>
+            Fri Feb 05 04:12:08 +0000 2010
+        </created_at>
+        <id>
+            8662996000
+        </id>
+        <text>
+            Drinking wine older than me
+        </text>
+        <source>
+            <a href="/devices" rel="nofollow">
+                txt
+            </a>
+        </source>
+        <truncated>
+            false
+        </truncated>
+        <in_reply_to_status_id/>
+        <in_reply_to_user_id/>
+        <favorited>
+            false
+        </favorited>
+        <in_reply_to_screen_name/>
+        <user>
+            <id>
+                1401881
+            </id>
+            <name>
+                Doug Williams
+            </name>
+            <screen_name>
+                dougw
+            </screen_name>
+            <location>
+                San Francisco, CA
+            </location>
+            <description>
+                BD at Twitter, pushing companies to be great at real-time.
+            </description>
+            <profile_image_url>
+                http://a1.twimg.com/profile_images/483178212/dougw_avatar_normal.jpg
+            </profile_image_url>
+            <url>
+                http://www.igudo.com
+            </url>
+            <protected>
+                false
+            </protected>
+            <followers_count>
+                356437
+            </followers_count>
+            <profile_background_color>
+                9ae4e8
+            </profile_background_color>
+            <profile_text_color>
+                000000
+            </profile_text_color>
+            <profile_link_color>
+                0000ff
+            </profile_link_color>
+            <profile_sidebar_fill_color>
+                e0ff92
+            </profile_sidebar_fill_color>
+            <profile_sidebar_border_color>
+                87bc44
+            </profile_sidebar_border_color>
+            <friends_count>
+                443
+            </friends_count>
+            <created_at>
+                Sun Mar 18 06:42:26 +0000 2007
+            </created_at>
+            <favourites_count>
+                216
+            </favourites_count>
+            <utc_offset>
+                -28800
+            </utc_offset>
+            <time_zone>
+                Pacific Time (US &amp; Canada)
+            </time_zone>
+            <profile_background_image_url>
+                http://a1.twimg.com/profile_background_images/2752608/twitter_bg_grass.jpg
+            </profile_background_image_url>
+            <profile_background_tile>
+                false
+            </profile_background_tile>
+            <notifications>
+                false
+            </notifications>
+            <geo_enabled>
+                true
+            </geo_enabled>
+            <verified>
+                false
+            </verified>
+            <following>
+                true
+            </following>
+            <statuses_count>
+                16008
+            </statuses_count>
+            <lang>
+                en
+            </lang>
+            <contributors_enabled>
+                false
+            </contributors_enabled>
+        </user>
+        <geo/>
+        <contributors/>
+    </status>
+</statuses>
